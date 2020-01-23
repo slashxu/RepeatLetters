@@ -1,0 +1,7 @@
+G:\Works\projetos_git\RepeatLetters\RepeatLetters\RepeatLetters\bin\Debug\RepeatLetters.exe.config
+G:\Works\projetos_git\RepeatLetters\RepeatLetters\RepeatLetters\bin\Debug\RepeatLetters.exe
+G:\Works\projetos_git\RepeatLetters\RepeatLetters\RepeatLetters\bin\Debug\RepeatLetters.pdb
+G:\Works\projetos_git\RepeatLetters\RepeatLetters\RepeatLetters\obj\Debug\RepeatLetters.csprojAssemblyReference.cache
+G:\Works\projetos_git\RepeatLetters\RepeatLetters\RepeatLetters\obj\Debug\RepeatLetters.csproj.CoreCompileInputs.cache
+G:\Works\projetos_git\RepeatLetters\RepeatLetters\RepeatLetters\obj\Debug\RepeatLetters.exe
+G:\Works\projetos_git\RepeatLetters\RepeatLetters\RepeatLetters\obj\Debug\RepeatLetters.pdb
